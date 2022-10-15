@@ -37,8 +37,8 @@
         }
       },
       "spacing": {
-        "4px": {
-          "value": "4px",
+        "6px": {
+          "value": "6px",
           "type": "spacing"
         },
         "8px": {
